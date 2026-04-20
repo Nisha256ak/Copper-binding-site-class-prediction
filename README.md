@@ -3,6 +3,10 @@
 *Overview:* 
 This repository provides a pipeline to identify copper-binding sites from PDB files and classify them into structurally defined clusters using a trained Support Vector Machine (SVM) model. The workflow extracts coordination-based features and assigns a class label for each detected copper site.
 
+## 🔗 Open in Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ubfl9owZYXzzXGhzeIwQDuwgnyUcWb9D?usp=sharing)
+
+
 *Usage:*
 Run the provided Google Colab notebook:
 1. Execute the **setup cell** to install and import required dependencies.
